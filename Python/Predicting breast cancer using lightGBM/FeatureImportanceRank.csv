@@ -1,0 +1,9 @@
+feature_Rank,feature_Index,feature_Name,feature_importance
+1,0,ClumpThickness,177
+2,5,BlandChromatin,106
+3,3,MarginalAdhesion,100
+4,4,EpithelialCellSize,60
+5,1,CellSize,58
+6,6,NormalNucleoli,50
+7,2,CellShape,50
+8,7,Mitoses,15

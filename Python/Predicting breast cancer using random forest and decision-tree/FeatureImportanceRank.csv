@@ -1,0 +1,9 @@
+feature_Rank,feature_Index,feature_Name,feature_importance
+1,1,CellSize,0.5827677710106465
+2,2,CellShape,0.11352876300581811
+3,6,NormalNucleoli,0.0933489170727622
+4,0,ClumpThickness,0.09323106922295683
+5,5,BlandChromatin,0.055476682870013484
+6,3,MarginalAdhesion,0.03691291450926999
+7,4,EpithelialCellSize,0.020707869861861027
+8,7,Mitoses,0.004026012446671542

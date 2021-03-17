@@ -1,0 +1,4 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="friedman_mse = 0.0\nsamples = 287\nvalue = 0.05"] ;
+}
